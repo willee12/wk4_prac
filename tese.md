@@ -1,5 +1,5 @@
 test
-
+some changes
 <<<<<<< HEAD
 local text
 =======
